@@ -38,11 +38,8 @@
 "    -> Helper functions
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:vim_jsx_pretty_colorful_config = 1
+
 set guifont=Hack:h10
-set noerrorbells visualbell t_vb=
-autocmd GUIEnter * set visualbell t_vb=
-let g:jsx_ext_required = 0
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
