@@ -7,3 +7,21 @@
 [submodule "sources_non_forked/vim-airline-themes"]
 	path = sources_non_forked/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "sources_non_forked/vim-colorschemes"]
+	path = sources_non_forked/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "sources_non_forked/indentLine"]
+	path = sources_non_forked/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
+[submodule "sources_non_forked/nerdcommenter"]
+	path = sources_non_forked/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "sources_non_forked/vim-closetag"]
+	path = sources_non_forked/vim-closetag
+	url = https://github.com/alvan/vim-closetag.git
+[submodule "sources_non_forked/vim-javascript"]
+	path = sources_non_forked/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "sources_non_forked/vim-jsx"]
+	path = sources_non_forked/vim-jsx
+	url = https://github.com/mxw/vim-jsx
