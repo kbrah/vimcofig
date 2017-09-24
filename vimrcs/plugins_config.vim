@@ -99,13 +99,6 @@ au FileType mako vmap Si S"i${ _(<esc>2f"a) }<esc>
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-" => airline
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:airline_powerline_fonts = 1
-let g:airline#extensions#tabline#enabled = 1
-let g:airline_theme='gruvbox'
-let g:airline_solarized_bg='dark'
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Vimroom
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:goyo_width=100
